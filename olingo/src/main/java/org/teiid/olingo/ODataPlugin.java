@@ -79,7 +79,6 @@ public class ODataPlugin {
         TEIID16038,
         TEIID16039,
         TEIID16040,
-        TEIID16041,
         TEIID16043, 
         TEIID16044, 
         TEIID16045,
@@ -94,5 +93,10 @@ public class ODataPlugin {
         TEIID16054,
         TEIID16055,
         TEIID16056, 
+        TEIID16057, 
+        TEIID16058, 
+        TEIID16059, 
+        TEIID16060,
+        TEIID16061,
     }
 }
